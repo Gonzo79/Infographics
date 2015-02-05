@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-	// You can comment out the whole csv section if you just have a JSON file.
+	// You can comment out the whole csv section if you just have a JSON file test.
 	// loadJSONFile('data/portaldata.json');
 
 	// Convert a csv file (tabular data) into a json hierarchical structure
